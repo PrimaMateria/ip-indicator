@@ -8,6 +8,8 @@ Flag icons used from http://www.famfamfam.com/lab/icons/flags/.
 
 Tested on Xubuntu 15.04.
 
+![screenshot](http://i.imgur.com/MiNWv84.png)
+
 # How to run
     $ python ipIndicator.py
     
